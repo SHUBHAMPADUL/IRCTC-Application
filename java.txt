@@ -9,8 +9,7 @@ Example e1=new Example();
 e1.m1();
 }
 void m6(){
+}
+void m7(){
 
-
-
-kgjdlkfdj
 }
